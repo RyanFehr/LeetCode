@@ -6,8 +6,8 @@
     Solutions to problems on LeetCode.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Solved-18/660-blue.svg">
-    <img src="https://img.shields.io/badge/Easy-11-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Solved-19/660-blue.svg">
+    <img src="https://img.shields.io/badge/Easy-12-brightgreen.svg">
     <img src="https://img.shields.io/badge/Medium-7-yellow.svg">
     <img src="https://img.shields.io/badge/Hard-0-red.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
