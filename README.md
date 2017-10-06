@@ -6,9 +6,9 @@
     Solutions to problems on LeetCode.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Solved-24/665-blue.svg">
+	<img src="https://img.shields.io/badge/Solved-25/665-blue.svg">
     <img src="https://img.shields.io/badge/Easy-15-brightgreen.svg">
-    <img src="https://img.shields.io/badge/Medium-9-yellow.svg">
+    <img src="https://img.shields.io/badge/Medium-10-yellow.svg">
     <img src="https://img.shields.io/badge/Hard-0-red.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
 </p>
