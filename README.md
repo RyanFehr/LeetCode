@@ -12,3 +12,8 @@
     <img src="https://img.shields.io/badge/Hard-0-red.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
 </p>
+
+
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:| -----
+| 1 |[Two Sum](https://leetcode.com/problems/two-sum/description/)| <ul><li>[Java](./Solutions/Two%20Sum/Solution.java)</li><<ul> | _O(n)_ | _O(n)_| Easy | ||
