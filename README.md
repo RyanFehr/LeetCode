@@ -19,4 +19,7 @@
 | 1 |[Two Sum](https://leetcode.com/problems/two-sum/description/)| <ul><li>[Java](./Solutions/Two%20Sum/Solution.java)</li><ul> | _O(n)_ | _O(n)_| Easy | ||
 | 2 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)| <ul><li>[Java](./Solutions/Add%20Two%20Numbers/Solution.java)</li><ul> | _O(n)_ | _O(1)_| Easy | ||
 | 3 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| <ul><li>[Java](./Solutions/Longest%20Substring%20Without%20Repeating%20Characters/Solution.java)</li><ul> | _O(n)_ | _O(n)_| Medium | ||
-| 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)| <ul><li></li><ul> | | | | ||
+| 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)| <ul><li></li><ul> | | | Hard | ||
+| 5 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)| <ul><li></li><ul> | | | Medium | ||
+| 6 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)| <ul><li></li><ul> | | | Medium | ||
+| 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| <ul><li>[Java](./Solutions/Reverse%20Integer/Solution.java)</li><ul> | _O(n)_ | _O(n)_| Easy | ||
