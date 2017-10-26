@@ -23,3 +23,6 @@
 | 5 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)| <ul><li></li><ul> | | | Medium | ||
 | 6 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)| <ul><li></li><ul> | | | Medium | ||
 | 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| <ul><li>[Java](./Solutions/Reverse%20Integer/Solution.java)</li><ul> | _O(n)_ | _O(n)_| Easy | ||
+| 8 |[String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/description/)| <ul><li></li><ul> | | | Medium | ||
+| 9 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| <ul><li></li><ul> | | | Easy | ||
+| 10 |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)| <ul><li></li><ul> | | | Hard | ||
