@@ -29,3 +29,7 @@
 | 11 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)| <ul><li></li><ul> | | | Medium | ||
 | 12 |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)| <ul><li></li><ul> | | | Medium | ||
 | 13 |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)| <ul><li></li><ul> | | | Easy | ||
+| 14 |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)| <ul><li></li><ul> | | | Easy | ||
+| 15 |[3Sum](https://leetcode.com/problems/3sum/description/)| <ul><li></li><ul> | | | Medium | ||
+| 16 |[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)| <ul><li></li><ul> | | | Medium | ||
+| 17 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| <ul><li></li><ul> | | | Medium | ||
