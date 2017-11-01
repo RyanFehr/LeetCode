@@ -34,3 +34,6 @@
 | 16 |[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)| <ul><li></li><ul> | | | Medium | ||
 | 17 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| <ul><li></li><ul> | | | Medium | ||
 | 18 |[4Sum](https://leetcode.com/problems/4sum/description/)| <ul><li></li><ul> | | | Medium | ||
+| 19 |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| <ul><li></li><ul> | | | Medium | ||
+| 20 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| <ul><li></li><ul> | | | Easy | ||
+| 21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)| <ul><li></li><ul> | | | Easy | ||
