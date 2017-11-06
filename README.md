@@ -39,3 +39,4 @@
 | 21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)| <ul><li></li><ul> | | | Easy | ||
 | 22 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)| <ul><li></li><ul> | | | Medium | ||
 | 23 |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)| <ul><li></li><ul> | | | Hard | ||
+| 24 |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)| <ul><li></li><ul> | | | Medium | ||
