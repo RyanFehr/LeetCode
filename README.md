@@ -43,3 +43,4 @@
 | 25 |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)| <ul><li></li><ul> | | | Hard | ||
 | 26 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| <ul><li></li><ul> | | | Easy | ||
 | 27 |[Remove Element](https://leetcode.com/problems/remove-element/description/)| <ul><li></li><ul> | | | Easy | ||
+| 28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)| <ul><li></li><ul> | | | Easy | ||
