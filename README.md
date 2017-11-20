@@ -45,3 +45,4 @@
 | 27 |[Remove Element](https://leetcode.com/problems/remove-element/description/)| <ul><li></li><ul> | | | Easy | ||
 | 28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)| <ul><li></li><ul> | | | Easy | ||
 | 29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)| <ul><li></li><ul> | | | Medium | ||
+| 30 |[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)| <ul><li></li><ul> | | | Hard | ||
