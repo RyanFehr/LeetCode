@@ -13,10 +13,10 @@
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
 </p>
 
-Pages [1](README.md) 2 [3](./indexing/page3.md)
+Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page3.md)
 
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:| -----
 | 51 |[N-Queens](https://leetcode.com/problems/n-queens/description/)| <ul><li></li><ul> | | | Hard | ||
 
-Pages [1](README.md) 2 [3](./indexing/page3.md)
+Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page3.md)

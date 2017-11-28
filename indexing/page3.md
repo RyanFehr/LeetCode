@@ -13,10 +13,10 @@
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
 </p>
 
-Pages [1](README.md) [2](./indexing/page2.md) 3
+Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) [2](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page2.md) 3
 
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:| -----
 | 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)| <ul><li></li><ul> | | | Easy | ||
 
-Pages [1](README.md) [2](./indexing/page2.md) 3
+Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) [2](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page2.md) 3
