@@ -13,6 +13,7 @@
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
 </p>
 
+Pages 1 [2](./indexing/page2.md) [3](./indexing/page3.md)
 
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:| -----
@@ -57,3 +58,5 @@
 | 39 |[Combination Sum](https://leetcode.com/problems/combination-sum/description/)| <ul><li></li><ul> | | | Medium | ||
 | 40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)| <ul><li></li><ul> | | | Medium | ||
 | 41 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)| <ul><li></li><ul> | | | Hard | ||
+
+Pages 1 [2](./indexing/page2.md) [3](./indexing/page3.md)
