@@ -51,3 +51,9 @@
 | 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)| <ul><li></li><ul> | | | Medium | ||
 | 34 |[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)| <ul><li></li><ul> | | | Medium | ||
 | 35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)| <ul><li></li><ul> | | | Easy | ||
+| 36 |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)| <ul><li></li><ul> | | | Medium | ||
+| 37 |[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)| <ul><li></li><ul> | | | Hard | ||
+| 38 |[Count and Say](https://leetcode.com/problems/count-and-say/description/)| <ul><li></li><ul> | | | Easy | ||
+| 39 |[Combination Sum](https://leetcode.com/problems/combination-sum/description/)| <ul><li></li><ul> | | | Medium | ||
+| 40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)| <ul><li></li><ul> | | | Medium | ||
+| 41 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)| <ul><li></li><ul> | | | Hard | ||
