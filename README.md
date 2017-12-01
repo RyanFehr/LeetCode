@@ -59,5 +59,13 @@ Pages 1 [2](./indexing/page2.md) [3](./indexing/page3.md)
 | 40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)| <ul><li></li><ul> | | | Medium | ||
 | 41 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)| <ul><li></li><ul> | | | Hard | ||
 | 42 |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)| <ul><li></li><ul> | | | Hard | ||
+| 43 |[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)| <ul><li></li><ul> | | | Medium | ||
+| 44 |[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)| <ul><li></li><ul> | | | Hard | ||
+| 45 |[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)| <ul><li></li><ul> | | | Hard | ||
+| 46 |[Permutations](https://leetcode.com/problems/permutations/description/)| <ul><li></li><ul> | | | Medium | ||
+| 47 |[Permutations II](https://leetcode.com/problems/permutations-ii/description/)| <ul><li></li><ul> | | | Medium | ||
+| 48 |[Rotate Image](https://leetcode.com/problems/rotate-image/description/)| <ul><li></li><ul> | | | Medium | ||
+| 48 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)| <ul><li></li><ul> | | | Medium | ||
+| 48 |[Pow(x,n)](https://leetcode.com/problems/powx-n/description/)| <ul><li></li><ul> | | | Medium | ||
 
 Pages 1 [2](./indexing/page2.md) [3](./indexing/page3.md)
