@@ -18,5 +18,7 @@ Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](http
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:| -----
 | 51 |[N-Queens](https://leetcode.com/problems/n-queens/description/)| <ul><li></li><ul> | | | Hard | ||
+| 52 |[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)| <ul><li></li><ul> | | | Hard | ||
+| 53 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)| <ul><li></li><ul> | | | Easy | ||
 
 Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page3.md)
