@@ -21,5 +21,6 @@ Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](http
 | 52 |[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)| <ul><li></li><ul> | | | Hard | ||
 | 53 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)| <ul><li></li><ul> | | | Easy | ||
 | 54 |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)| <ul><li></li><ul> | | | Medium | ||
+| 55 |[Jump Game](https://leetcode.com/problems/jump-game/description/)| <ul><li></li><ul> | | | Medium | ||
 
 Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page3.md)
