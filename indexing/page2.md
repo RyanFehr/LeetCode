@@ -22,5 +22,7 @@ Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](http
 | 53 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)| <ul><li></li><ul> | | | Easy | ||
 | 54 |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)| <ul><li></li><ul> | | | Medium | ||
 | 55 |[Jump Game](https://leetcode.com/problems/jump-game/description/)| <ul><li></li><ul> | | | Medium | ||
+| 56 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)| <ul><li></li><ul> | | | Medium | ||
+| 57 |[Insert Interval](https://leetcode.com/problems/insert-interval/description/)| <ul><li></li><ul> | | | Hard | ||
 
 Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page3.md)
