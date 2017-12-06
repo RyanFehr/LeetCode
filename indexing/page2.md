@@ -24,5 +24,7 @@ Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](http
 | 55 |[Jump Game](https://leetcode.com/problems/jump-game/description/)| <ul><li></li><ul> | | | Medium | ||
 | 56 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)| <ul><li></li><ul> | | | Medium | ||
 | 57 |[Insert Interval](https://leetcode.com/problems/insert-interval/description/)| <ul><li></li><ul> | | | Hard | ||
+| 58 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)| <ul><li></li><ul> | | | Easy | ||
+| 59 |[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)| <ul><li></li><ul> | | | Medium | ||
 
 Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page3.md)
