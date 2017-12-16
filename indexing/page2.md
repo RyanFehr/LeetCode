@@ -28,5 +28,6 @@ Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](http
 | 59 |[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)| <ul><li></li><ul> | | | Medium | ||
 | 60 |[Permuation Sequence](https://leetcode.com/problems/permutation-sequence/description/)| <ul><li></li><ul> | | | Medium | ||
 | 61 |[Rotate List](https://leetcode.com/problems/rotate-list/description/)| <ul><li></li><ul> | | | Medium | ||
+| 62 |[Unique Paths](https://leetcode.com/problems/unique-paths/description/)| <ul><li></li><ul> | | | Medium | ||
 
 Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page3.md)
