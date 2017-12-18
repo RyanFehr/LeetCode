@@ -30,5 +30,6 @@ Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](http
 | 61 |[Rotate List](https://leetcode.com/problems/rotate-list/description/)| <ul><li></li><ul> | | | Medium | ||
 | 62 |[Unique Paths](https://leetcode.com/problems/unique-paths/description/)| <ul><li></li><ul> | | | Medium | ||
 | 63 |[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)| <ul><li></li><ul> | | | Medium | ||
+| 64 |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)| <ul><li></li><ul> | | | Medium | ||
 
 Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page3.md)
