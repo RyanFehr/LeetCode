@@ -33,5 +33,6 @@ Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](http
 | 64 |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)| <ul><li></li><ul> | | | Medium | ||
 | 65 |[Valid Number](https://leetcode.com/problems/valid-number/description/)| <ul><li></li><ul> | | | Hard | ||
 | 66 |[Plus One](https://leetcode.com/problems/plus-one/description/)| <ul><li></li><ul> | | | Easy | ||
+| 67 |[Add Binary](https://leetcode.com/problems/add-binary/description/)| <ul><li></li><ul> | | | Easy | ||
 
 Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page3.md)
