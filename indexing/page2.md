@@ -35,5 +35,6 @@ Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](http
 | 66 |[Plus One](https://leetcode.com/problems/plus-one/description/)| <ul><li></li><ul> | | | Easy | ||
 | 67 |[Add Binary](https://leetcode.com/problems/add-binary/description/)| <ul><li></li><ul> | | | Easy | ||
 | 68 |[Text Justification](https://leetcode.com/problems/text-justification/description/)| <ul><li></li><ul> | | | Hard | ||
+| 69 |[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)| <ul><li></li><ul> | | | Easy | ||
 
 Pages [1](https://github.com/RyanFehr/LeetCode/blob/master/README.md) 2 [3](https://github.com/RyanFehr/LeetCode/blob/master/indexing/page3.md)
